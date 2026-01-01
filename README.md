@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Abdulnaser Ishaq  
+## 👋 Hi, I'm Abdulnaser Ishaq  
 ### Frontend Developer | HTML • CSS • JavaScript
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120" />
@@ -38,10 +38,16 @@ I enjoy writing organized code and continuously improving my skills 🚀
 
 ---
 
-### 📬 Contact Me
+### 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
+  <a href="https://www.tiktok.com/@USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
