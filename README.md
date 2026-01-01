@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Abdulnaser Ishaq  
+## 👋 Abdulnaser Ishaq  
 ### Frontend Developer | HTML • CSS • JavaScript
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="120" />
